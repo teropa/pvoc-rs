@@ -10,5 +10,5 @@ license = "GPL-3.0"
 
 [dependencies]
 rustfft = "1.0.1"
-num = "0.1.32"
+num = "0.2.0"
 apodize = "0.2.0"
